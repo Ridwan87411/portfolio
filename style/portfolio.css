@@ -225,7 +225,54 @@ nav .menu a{
     color: #757575;
     line-height: 28px;
 }
+.text-center{
+    text-align: center;
+}
+footer{
+    margin-top: 130px;
+    background-color: #FFF8F3;
+    padding: 130px 0;
+}
 
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 130px;
+    
 
+}
+ .footer-container .social{
+    max-width: 562px;
+    padding-left: 230px;
+ }
+ .footer-container .social h2{
+    font-size: 35px;
+    font-weight: bold;
+
+ }
+ .footer-container .social p{
+    font-size: 16px;
+    line-height: 28px;
+    padding-top: 20px;
+    color: #757575;
+
+ }
+ .footer-container .social .icons{
+    
+    padding-top: 20px;
+    
+
+ }
+.footer-container .form{
+    max-width: 461px;
+    padding-right: 230px;
+    border: 1px solid red;
+ }
+ .footer-container .form h2{
+    font-size: 35px;
+    font-weight: bold;
+    
+
+ }
 
 
